@@ -1,10 +1,10 @@
-.featuredMugs {
+.container3 {
   position: relative;
   height: auto;
   top: 550px;
 }
 
-.fmugs_header {
+.container3_header {
   position: absolute;
   width: 120px;
 
@@ -19,7 +19,7 @@
 
   color: #1d1f2e;
 }
-.fmugs_line1 {
+.container3_line1 {
   position: absolute;
   width: 30px;
   height: 1px;
@@ -29,7 +29,7 @@
 
   margin-right: 170px;
 }
-.fmugs_line2 {
+.container3_line2 {
   position: absolute;
   width: 30px;
   height: 1px;
@@ -43,29 +43,46 @@
 .container1 {
   margin-right: 10px;
   margin-bottom: 1px;
+  position: absolute;
+  height: 540px;
+  left: 17%;
+  right: 0%;
+  top: 55px;
 }
 .container2 {
   margin-left: 10px;
+  position: absolute;
+  height: 540px;
+  left: 50%;
+  right: 0%;
+  top: 55px;
 }
 
-.ppc_mug {
+.ppc_cup-photo {
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
-
+  margin-left: -750px;
   text-align: center;
-
   color: #1d1f2e;
 }
-
-.gd_mug {
+.price1 {
+  margin-left: 170px;
+}
+.price2 {
+  margin-right: 10px;
+  margin-left: 130px;
+}
+.sale {
+  margin-left: 300px;
+}
+.gd_cup-photo {
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
-
   text-align: center;
-
+  margin-left: -250px;
   color: #1d1f2e;
 }

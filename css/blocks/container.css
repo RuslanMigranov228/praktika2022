@@ -1,4 +1,4 @@
-.main {
+.container__wrapper {
   position: relative;
   top: 80px;
   max-width: 1380px;
@@ -6,26 +6,26 @@
   margin-left: auto;
   margin-right: auto;
 }
-.background {
+.container__wrapper-photo {
   position: absolute;
   width: 1380px;
   height: 530px;
   background: #050827;
   z-index: -5;
 }
-.mug_back {
+.shapka {
   position: absolute;
   z-index: -3;
   left: 220px;
 }
-.main_text {
+.container__text {
   top: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
-.main_text1 {
+.container__text1 {
   position: absolute;
   width: 215px;
   height: 18px;
@@ -36,18 +36,16 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 18px;
-  /* identical to box height, or 150% */
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #ffffff;
 }
-.main_text2 {
+.container__text2 {
   position: absolute;
   width: 267px;
   height: 60px;
   bottom: 283px;
-
   font-family: "Karla";
   font-style: normal;
   font-weight: 400;
@@ -56,23 +54,21 @@
   text-align: center;
   color: #ffffff;
 }
-.main_text3 {
+.container__text3 {
   position: absolute;
   width: 793px;
   height: 30px;
   bottom: 243px;
-
   font-family: "Karla";
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
   line-height: 30px;
-  /* identical to box height, or 176% */
 
   text-align: center;
   color: #ffffff;
 }
-.main_text4 {
+.container__text4 {
   position: absolute;
   width: 183px;
   height: 18px;
@@ -86,7 +82,6 @@
   font-weight: 400;
   font-size: 11px;
   line-height: 18px;
-  /* identical to box height, or 150% */
 
   text-align: center;
   letter-spacing: 2px;
