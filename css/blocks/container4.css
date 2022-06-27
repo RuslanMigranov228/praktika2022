@@ -1,0 +1,23 @@
+.galery_coffe {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  column-gap: 17px;
+}
+.galery_coffe_contanier1 {
+}
+.coffe3 {
+}
+.price1 {
+}
+.sale {
+}
+.galery_coffe_contanier2 {
+}
+.coffe4 {
+}
+.galery_coffe_contanier3 {
+}
+.coffe5 {
+}

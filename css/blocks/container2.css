@@ -23,7 +23,6 @@
   color: rgba(29, 31, 46, 0.7);
 }
 .container2__text2 {
-  position: absolute;
   width: 133px;
   height: 28px;
   font-style: normal;
@@ -32,12 +31,9 @@
   line-height: 28px;
   text-align: center;
   color: #a25f4b;
-  margin-top: 255px;
 }
 .container2__line {
-  position: absolute;
   width: 133px;
   height: 2px;
   background: rgba(162, 95, 75, 0.2);
-  margin-top: 283px;
 }
