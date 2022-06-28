@@ -4,7 +4,7 @@
   top: 550px;
 }
 
-.container3_header {
+.container3__header {
   position: absolute;
   width: 120px;
 
@@ -12,28 +12,28 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 18px;
-
+  margin-bottom: 500px;
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
 
   color: #1d1f2e;
 }
-.container3_line1 {
+.container3__line1 {
   position: absolute;
   width: 30px;
   height: 1px;
-
+  margin-bottom: 500px;
   background: #ececed;
   border-radius: 0px;
 
   margin-right: 170px;
 }
-.container3_line2 {
+.container3__line2 {
   position: absolute;
   width: 30px;
   height: 1px;
-
+  margin-bottom: 500px;
   background: #ececed;
   border-radius: 0px;
 
@@ -47,7 +47,8 @@
   height: 540px;
   left: 17%;
   right: 0%;
-  top: 55px;
+
+  bottom: -350px;
 }
 .container2 {
   margin-left: 10px;
@@ -55,10 +56,10 @@
   height: 540px;
   left: 50%;
   right: 0%;
-  top: 55px;
+  bottom: -350px;
 }
 
-.ppc_cup-photo {
+.ppc__cup-photo {
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -67,26 +68,32 @@
   text-align: center;
   color: #1d1f2e;
 }
-.price1 {
+.price {
   margin-left: 170px;
 }
-.price2 {
-  margin-right: 10px;
-  margin-left: 130px;
+.price3 {
+  color: #a25f4b;
+  text-align: center;
+  margin-left: 140px;
+  font-size: 20px;
+  margin-top: auto;
 }
-.sale {
-  margin-left: 300px;
+.sale2 {
+  margin-top: auto;
+  margin-left: 30px;
 }
-.gd_cup-photo {
+.gd__cup-photo {
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
+
   line-height: 30px;
   text-align: center;
   margin-left: -250px;
   color: #1d1f2e;
 }
-.container4_header {
+
+.container4__header {
   position: absolute;
   width: 120px;
 
@@ -98,24 +105,24 @@
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
-  margin-top: 1300px;
+  margin-top: 1000px;
   margin-left: 658px;
   color: #1d1f2e;
 }
-.container4_line1 {
+.container4__line1 {
   position: absolute;
   width: 30px;
   height: 1px;
-  margin-top: 1308px;
+  margin-top: 1008px;
   background: #ececed;
   border-radius: 0px;
   margin-left: 613px;
 }
-.container4_line2 {
+.container4__line2 {
   position: absolute;
   width: 30px;
   height: 1px;
-  margin-top: 1308px;
+  margin-top: 1008px;
   background: #ececed;
   border-radius: 0px;
   margin-left: 789px;
