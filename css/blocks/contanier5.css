@@ -1,0 +1,116 @@
+.galery__2__mugs-coffe {
+  position: relative;
+  top: 90px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.buy__2__mugs {
+  display: flex;
+  align-items: center;
+
+  margin-bottom: 100px;
+}
+.buy__2__mugs-line1 {
+  width: 30px;
+  height: 1px;
+  background: #ececed;
+
+  margin-right: 15px;
+}
+.buy__2__mugs-header {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #1d1f2e;
+}
+.buy__2__mugs-line2 {
+  width: 30px;
+  height: 1px;
+  background: #ececed;
+
+  margin-left: 15px;
+}
+.buy__2__coffe-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buy__2__coffe-images {
+  display: flex;
+  flex-direction: row;
+
+  margin-right: 80px;
+}
+.buy__2__coffe__block-1 {
+  margin-right: 20px;
+}
+.buy__2__coffe-image1 {
+  margin-bottom: 15px;
+}
+
+.buy__2__coffe-text {
+  text-align: left;
+}
+.buy__2__coffe-text1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #1d1f2e;
+}
+.buy__2__coffe-text2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 50px;
+
+  color: #1d1f2e;
+
+  max-width: 237px;
+
+  margin-top: 10px;
+}
+.buy__2__coffe-text3 {
+  max-width: 353px;
+  margin-top: -20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+
+  color: rgba(29, 31, 46, 0.7);
+}
+.buy__2__coffe-knopka {
+  width: 173px;
+  height: 36px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  background: #1d1f2e;
+  border-radius: 0px;
+}
+.buy__2__coffe-fon {
+  margin-top: 130px;
+  max-width: 1440px;
+}
