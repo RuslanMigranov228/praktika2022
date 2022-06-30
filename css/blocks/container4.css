@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+.galery_coffe {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  column-gap: 17px;
+}
+.galery_coffe_contanier1 {
+}
+.coffe3 {
+}
+.price1 {
+}
+.sale {
+}
+.galery_coffe_contanier2 {
+}
+.coffe4 {
+}
+.galery_coffe_contanier3 {
+}
+.coffe5 {
+}
+=======
 .galery__coffe {
   display: flex;
   flex-wrap: wrap;
@@ -79,3 +104,4 @@
 .price5 {
   color: #1d1f2eb2;
 }
+>>>>>>> da79f2bd14118c08b8e9b5dac2b6ef9e117ded5d

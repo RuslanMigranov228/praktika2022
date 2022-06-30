@@ -1,3 +1,44 @@
+<<<<<<< HEAD
+.container2__header {
+  position: absolute;
+  width: 578px;
+  height: 80px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container2__text {
+  position: absolute;
+  width: 658px;
+  height: 112px;
+  top: 99px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: rgba(29, 31, 46, 0.7);
+}
+.container2__text2 {
+  width: 133px;
+  height: 28px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #a25f4b;
+}
+.container2__line {
+  width: 133px;
+  height: 2px;
+  background: rgba(162, 95, 75, 0.2);
+}
+=======
 .container2__header {
   position: absolute;
   width: 578px;
@@ -38,3 +79,4 @@
   height: 2px;
   background: rgba(162, 95, 75, 0.2);
 }
+>>>>>>> da79f2bd14118c08b8e9b5dac2b6ef9e117ded5d

@@ -1,3 +1,127 @@
+<<<<<<< HEAD
+.container3 {
+  position: relative;
+  height: auto;
+  top: 550px;
+}
+
+.container3_header {
+  position: absolute;
+  width: 120px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: #1d1f2e;
+}
+.container3_line1 {
+  position: absolute;
+  width: 30px;
+  height: 1px;
+
+  background: #ececed;
+  border-radius: 0px;
+
+  margin-right: 170px;
+}
+.container3_line2 {
+  position: absolute;
+  width: 30px;
+  height: 1px;
+
+  background: #ececed;
+  border-radius: 0px;
+
+  margin-left: 170px;
+}
+
+.container1 {
+  margin-right: 10px;
+  margin-bottom: 1px;
+  position: absolute;
+  height: 540px;
+  left: 17%;
+  right: 0%;
+  top: 55px;
+}
+.container2 {
+  margin-left: 10px;
+  position: absolute;
+  height: 540px;
+  left: 50%;
+  right: 0%;
+  top: 55px;
+}
+
+.ppc_cup-photo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: -750px;
+  text-align: center;
+  color: #1d1f2e;
+}
+.price1 {
+  margin-left: 170px;
+}
+.price2 {
+  margin-right: 10px;
+  margin-left: 130px;
+}
+.sale {
+  margin-left: 300px;
+}
+.gd_cup-photo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  margin-left: -250px;
+  color: #1d1f2e;
+}
+.container4_header {
+  position: absolute;
+  width: 120px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 1300px;
+  margin-left: 658px;
+  color: #1d1f2e;
+}
+.container4_line1 {
+  position: absolute;
+  width: 30px;
+  height: 1px;
+  margin-top: 1308px;
+  background: #ececed;
+  border-radius: 0px;
+  margin-left: 613px;
+}
+.container4_line2 {
+  position: absolute;
+  width: 30px;
+  height: 1px;
+  margin-top: 1308px;
+  background: #ececed;
+  border-radius: 0px;
+  margin-left: 789px;
+}
+=======
 .container3 {
   position: relative;
   height: auto;
@@ -127,3 +251,4 @@
   border-radius: 0px;
   margin-left: 789px;
 }
+>>>>>>> da79f2bd14118c08b8e9b5dac2b6ef9e117ded5d

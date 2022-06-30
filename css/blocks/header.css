@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
   position: absolute;
   height: 80px;
@@ -154,3 +155,161 @@
   background: rgba(162, 95, 75, 0.3);
   border-radius: 0px;
 }
+=======
+.header {
+  position: absolute;
+  height: 80px;
+  left: 17.36%;
+  right: 17.36%;
+  top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.coffeeStyle {
+  height: 24px;
+  padding: 5px;
+}
+
+.home {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+
+.home:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.products {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.products:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.blog {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.blog:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.about {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.about:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.contact {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.contact:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.styleGuide {
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.styleGuide:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  position: relative;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px;
+  transition-duration: 450ms;
+}
+.cart:hover {
+  transition-duration: 450ms;
+  transform: scale(1.5, 1.5);
+}
+.round {
+  position: relative;
+  height: 18px;
+  width: 18px;
+  margin: 5px;
+  background: #1d1f2e;
+  border-radius: 9px;
+}
+
+.paket {
+  margin: 5px;
+}
+.cartButton {
+  margin: 5px;
+  transition-duration: 450ms;
+}
+
+.count {
+  text-align: center;
+  color: white;
+}
+
+.line {
+  position: absolute;
+  height: 2px;
+  width: 100px;
+  top: 35px;
+  background: rgba(162, 95, 75, 0.3);
+  border-radius: 0px;
+}
+>>>>>>> da79f2bd14118c08b8e9b5dac2b6ef9e117ded5d
