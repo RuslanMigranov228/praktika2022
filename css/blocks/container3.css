@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .container3 {
   position: relative;
   height: auto;
@@ -48,7 +47,7 @@
   height: 540px;
   left: 17%;
   right: 0%;
-  top: 55px;
+  top: -170px;
 }
 .container2 {
   margin-left: 10px;
@@ -56,7 +55,7 @@
   height: 540px;
   left: 50%;
   right: 0%;
-  top: 55px;
+  top: -170px;
 }
 
 .ppc_cup-photo {
@@ -121,7 +120,7 @@
   border-radius: 0px;
   margin-left: 789px;
 }
-=======
+
 .container3 {
   position: relative;
   height: auto;
@@ -251,4 +250,3 @@
   border-radius: 0px;
   margin-left: 789px;
 }
->>>>>>> da79f2bd14118c08b8e9b5dac2b6ef9e117ded5d
